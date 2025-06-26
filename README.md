@@ -29,6 +29,9 @@ MindMate is an NLP-powered chatbot designed to support students' mental health b
    ```bash
    pip install flask transformers mysql-connector-python
    ```
+   ```bash
+   pip install torch
+   ```
 
 3. **Setup MySQL Database**
    - Start your MySQL server and run the contents of `schema.sql` file in your MySQL client.
