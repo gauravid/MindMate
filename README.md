@@ -7,7 +7,6 @@ MindMate is an NLP-powered chatbot designed to support students' mental health b
 - 💬 Emotion-aware chatbot using a Hugging Face transformer model
 - ⏰ Time-based greeting system (morning/afternoon/evening)
 - 🌈 Responsive and soothing frontend UI with cheerful avatar
-- 📘 Non-repetitive affirmations and emotion-specific tips
 - 🗃️ MySQL database integration for chat history logging
 - 📞 Built-in helpline support panel with verified mental health contacts
 
@@ -52,10 +51,5 @@ MindMate is an NLP-powered chatbot designed to support students' mental health b
 - `emotions`: Optional emotion descriptions
 - `chat_history`: Logs basic chat exchanges
 
-## 🤝 Contributing
 
-Pull requests and suggestions are welcome!
 
-## 📄 License
-
-This project is for academic and demonstration purposes.
