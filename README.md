@@ -16,6 +16,16 @@ MindMate is an NLP-powered chatbot designed to support students' mental health b
 - Hugging Face Transformers (BERT-based emotion model)
 - HTML, CSS, JavaScript
 - MySQL, mysql-connector-python
+  
+## 🖼️ Screenshots
+
+### 💬 Chat Interface
+![Chat Interface](static/Screenshot%202025-06-26%20124010.png)
+![Chat Interface](static/Screenshot%202025-06-26%20124031.png)
+![Chat Interface](static/Screenshot%202025-06-26%20124121.png)
+
+
+
 
 ## 🧑‍💻 Setup Instructions
 
