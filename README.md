@@ -21,18 +21,22 @@
 
 ---
 
-## 🚀 Tools & Technologies
+## 🖼️ Screenshots
 
-| Category        | Tools Used                                 |
-|----------------|---------------------------------------------|
-| Framework       | Flask                                       |
-| NLP Models      | HuggingFace Transformers: BERT, DistilGPT2 |
-| GenAI           | Text generation pipeline (`distilgpt2`)     |
-| Language        | Python                                      |
-| Database        | MySQL                                       |
-| Charting        | Matplotlib                                  |
-| Frontend        | HTML, CSS, JavaScript                       |
-| Other           | UUID, Jinja2, Flask Sessions, io, os        |
+### 💬 1. Chat Interface – Emotion Detection
+![💬 1. Chat Interface – Emotion Detection](screenshots/chat_interface.png)
+
+### 🎭 2. Detected Emotion: lone and tired
+![🎭 2. Detected Emotion: Sad](screenshots/emotion1.png)
+![🎭 2. Detected Emotion: Sad](screenshots/emotion21.png)
+![🎭 2. Detected Emotion: Sad](screenshots/emotion22.png)
+
+### 🔥 3. Detected Emotion: anxious
+![🔥 3. Detected Emotion: Burnout](screenshots/emotion2.png)
+
+
+### 📊 4. Emotion Frequency Chart
+![📊 4. Emotion Frequency Chart](screenshots/emotion_chart.png)
 
 ---
 
